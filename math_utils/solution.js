@@ -9,3 +9,4 @@ const sub = function(a,b){
 const div = function(a,b){
     return a/b;
 };
+

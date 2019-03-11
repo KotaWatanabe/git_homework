@@ -2,7 +2,10 @@
 
 This repository contains homework for the COdeCore Bootcamp. You can find these on certified.in.
 
-# Some Homework
+# List of Homework
 
-- Box It and Stuff
-- Turtle Drawing
+1. Box It Script
+2. Turtle Graphics
+3. Online Calculator
+4. Twiiter Clone
+
