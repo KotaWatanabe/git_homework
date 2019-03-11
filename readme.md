@@ -1,6 +1,6 @@
-# CodeCore Homework
+# CodeCore Assignments
 
-This repository contains homework for the COdeCore Bootcamp.
+This repository contains homework for the COdeCore Bootcamp. You can find these on certified.in.
 
 # List of Homework
 
@@ -8,3 +8,4 @@ This repository contains homework for the COdeCore Bootcamp.
 2. Turtle Graphics
 3. Online Calculator
 4. Twiiter Clone
+

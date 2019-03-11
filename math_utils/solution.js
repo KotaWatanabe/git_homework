@@ -1,7 +1,12 @@
-function add(a,b){
+const add = function(a,b){
     return a + b;
-}
+};
 
-function sub(a,b){
-    return a- b;
-}
+const sub = function(a,b){
+    return a - b;
+};
+
+const div = function(a,b){
+    return a/b;
+};
+
